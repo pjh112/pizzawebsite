@@ -8,7 +8,7 @@ import Margarita from '../assets/Margarita.jpg';
 
 export const menuList = [
     {
-    name: "Hawaiin Pineapple Pizza",
+    name: "Hawaiian Pineapple Pizza",
     image:Hawaiian,
     price:13.99
 
